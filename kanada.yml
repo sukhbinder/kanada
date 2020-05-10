@@ -1,0 +1,208 @@
+
+colors: Bannagalu 
+black: Kappu 
+white: bili 
+gray: thizi  
+blue: neeli 
+green: hasiru 
+brown: kandhu 
+purple: nerale 
+red: kempu 
+orange: kesari 
+yellow: harishina 
+Days: dinagalu 
+Monday: somavaara 
+Tuesday: mangala vaara 
+Wednesday: bhudha vaara 
+Thursday: guru vaara 
+Friday: shukkra vaara 
+Saturday: shani vaara 
+Sunday: bhanu vaara 
+yesterday: niinne 
+today: indhu 
+tomorrow: naale 
+here: illi 
+there: alli 
+quickly: thakshana 
+slowly: nidhanaavagi 
+always: yavaagalu 
+sometimes: yavaagaladharu 
+never: illave illa 
+one: ondhu 
+two: yeradu 
+three: mooru 
+four: naalku 
+five: aidhu 
+six: aaru 
+seven: yelu 
+eight: entu 
+nine: ombathu 
+ten: hatthu 
+head: thale 
+face: mukha 
+hair: koodalu 
+eye: kannu 
+ear: kivi 
+nose: moogu 
+mouth: baayi 
+tooth: hallu 
+arm: bhujha 
+hand: kaiy 
+heart: hrudaya 
+stomach: hotte 
+leg: kaalu 
+foot: paadha 
+Food: oota 
+bread: breadu 
+cheese: cheesu 
+meat: mamsa 
+chicken: koli mamsa 
+fish: meenu 
+sandwich: sandwhichu 
+salad: saladu 
+salt: uppu 
+candy: sweetu 
+fruit: hannu 
+apple: sebu 
+banana: bale hannu 
+oranges: kitthale 
+grapes: dhrakshi 
+strawberries: strawberry 
+vegetables: tharakarigalu 
+carrot: karrattu 
+onions: eerulli 
+potatoes: aloogadde 
+tomatoes: tomatoes 
+breakfast: uphahara 
+lunch: oota 
+dinner: rathri oota 
+cat: bekkku 
+dog: naayi 
+mouse: ili 
+cow: hasu 
+horse: kudure 
+alligator: mosale 
+rabbit: mola 
+bird: pakshi 
+bear: karadi 
+eagle: haddhu 
+elephant: aane 
+giraffe: giraffe 
+lion: simha 
+monkey: kothi 
+snake: haavu 
+tiger: huli 
+pharmacy: oushadhalaya 
+restaurant: hotelu 
+house: mane 
+room: roomu 
+bathroom: bacchaalu mane 
+toilet: shauchalaya 
+bedroom: kone 
+kitchen: adige mane 
+floor: nela 
+roof: chavani 
+ceiling: chavani 
+wall: gode 
+window: kitaki 
+objects: vasthugalu 
+shampoo: shampoo 
+soap: saabunu 
+towel: tholina vasthra 
+toothbrush: dhantha shubraka 
+toothpaste: dhantha shubraka 
+bed: mancha 
+refrigerator: fridge 
+table: meju 
+cup: kappu 
+fork: forku 
+knife: katthi 
+spoon: chamacha 
+plate: thatte 
+furniture: mejugalu  
+chair: kurchi 
+desk: meju 
+telephone: dooravani 
+newspaper: dina pathrike 
+pen: pennu 
+pencil: pencillu 
+paper: kagadha 
+scissors: katthari 
+picture: chitra 
+clothes: battegalu 
+coat: kotu 
+hat: topi 
+jacket: jackettu 
+pants: pantu 
+shoes: bootu 
+umbrella: chatri 
+socks: kaicheela   
+after: aamele 
+before: aagale 
+below: kelage 
+on top of: adhara mele 
+for: adhakkagi 
+from: adharindha 
+inside: olagindha 
+outside: horagade 
+under: kelage 
+until: alliyavaregu 
+with: jothe 
+without: illadhe 
+near: hatthira 
+far from: adhrindha dhoora 
+behind: hindhe 
+in front of: athara mundhe 
+because of: adhakkagi 
+about: bagge 
+this: idhu 
+that: adhu 
+how: hege
+what: yenu
+who: yaaru
+why: yaake
+where: yelli
+can I help you: naanu nimage sahaya madabahude 
+can you help me: nanage sahaya maduthhira 
+do you speak English: neevu inglish mathanadutthira 
+what time is it: eega esthu ghante 
+how much is this: idhu esthu doora ide 
+what is your name: ninna hesaru yenu 
+where do you live: neevu elli vaasisutheera 
+beach: beechu 
+island: dweepa 
+desert: marubhoomi 
+mountain: betta 
+forest: kaadu 
+tree: maraa 
+flowers: hoovugalu 
+garden: udhyana 
+river: nadhi 
+lake: sarovara 
+sea: samudhra 
+sky: aakasha 
+stars: nakshathragalu 
+moon: chandra 
+earth: bhoomi 
+weather: havaamaana 
+windy: gaali 
+cloudy: modaa kavidha 
+raining: malee barthaidhe 
+cold: thaange 
+snowing: himapaatha 
+sunny: suryakavidha 
+hot: bisi 
+autumn: sharath 
+winter: chaligala 
+spring: shishira 
+summer: besige 
+people: janaru 
+husband: ganda 
+wife: hendathi 
+father: thandhe 
+mother: amma 
+son: maga 
+daughter: magalu 
+brother: thamma/anna(younger/elder) 
+grandfather: thaatha 
+grandmother: ajji 
